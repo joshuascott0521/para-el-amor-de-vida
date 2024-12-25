@@ -44855,7 +44855,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: 35px 0 35px auto;
+  margin: 35px 343px 35px auto;
 }
 
 .u-header .u-hamburger-link-1 {
@@ -44873,6 +44873,10 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
+  .u-header .u-menu-1 {
+    margin-right: 343px;
+  }
+
   .u-header .u-nav-1 {
     letter-spacing: normal;
   }
